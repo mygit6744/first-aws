@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.yugandhar</groupId>
 	<artifactId>first-aws</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SHOT</version>
 	<name>first-aws</name>
 	<description>first-aws for Spring Boot</description>
 	<url/>
@@ -43,6 +43,7 @@
 	</dependencies>
 
 	<build>
+		<finalname>first-aws</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
