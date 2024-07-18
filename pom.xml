@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-		<finalname>first-aws</finalname>
+		<finalName>first-aws</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
