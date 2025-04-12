@@ -13,7 +13,7 @@ public class FirstController {
 	@GetMapping("/") 
     public String getMessage()
     {
-        return "Spring Boot First Application in Git !!";
+        return "Spring Boot First Application in Git ok!!";
     }
 	@GetMapping("/heros")
 	public List<Hero> getHerosList() {
